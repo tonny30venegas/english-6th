@@ -1,0 +1,23 @@
+
+{
+  "expo": {
+   "name": "English 6th",
+   "icon": "./assets/6th-form.png",
+   "version": "1.0.0",
+   "slug": "english-6th",
+   "sdkVersion": "37.0.0",
+   "platforms": [
+    "ios",
+    "android",
+    "web"
+  ],
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.yourappname",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.yourcompany.yourappname",
+     "versionCode": 1
+   }
+  }
+}
